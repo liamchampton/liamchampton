@@ -28,9 +28,9 @@ Fun Facts :fire:
 [![LinkedIn][2.2]][2]&nbsp;&nbsp;&nbsp;&nbsp;
 [![Instagram][3.2]][3]
 
-[1.2]: ./twitter.png
-[2.2]: ./linkedin.png
-[3.2]: ./instagram.png
+[1.2]: https://github.com/liamchampton/liamchampton/blob/master/twitter.png
+[2.2]: https://github.com/liamchampton/liamchampton/blob/master/linkedin.png
+[3.2]: https://github.com/liamchampton/liamchampton/blob/master/instagram.png
 [1]: https://twitter.com/LiamConroyH
 [2]: www.linkedin.com/in/liam-conroy-hampton
 [3]: https://www.instagram.com/liamhampton/
