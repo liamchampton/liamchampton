@@ -24,8 +24,15 @@ Fun Facts :fire:
 
 Ask me anything, anytime!
 
-Linkedin - www.linkedin.com/in/liam-conroy-hampton
+[![Twitter][1.2]][1]&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn][2.2]][2]&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram][3.2]][3]
 
-Twitter - https://twitter.com/LiamConroyH
+[1.2]: ./twitter.png
+[2.2]: ./linkedin.png
+[3.2]: ./instagram.png
+[1]: https://twitter.com/LiamConroyH
+[2]: www.linkedin.com/in/liam-conroy-hampton
+[3]: https://www.instagram.com/liamhampton/
 
-Instagram - https://www.instagram.com/liamhampton/
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
