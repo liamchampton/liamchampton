@@ -1,6 +1,6 @@
 [![Header](https://github.com/liamchampton/liamchampton/blob/readme-header/github_readme_pic.jpg "Header")](https://techjam.dev/)
 
-Software Developer / Develeloper Advocate / Podcast Co-Host / Mentor and an all round tech geek and code enthusiast
+## Software Developer / Develeloper Advocate / Podcast Co-Host / Mentor and an all round tech geek and code enthusiast :octopus:
 
 Quick Facts :rocket:
 
