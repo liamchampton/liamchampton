@@ -32,5 +32,5 @@ Fun Facts :fire:
 [2.2]: https://github.com/liamchampton/liamchampton/blob/master/linkedin.png
 [3.2]: https://github.com/liamchampton/liamchampton/blob/master/instagram.png
 [1]: https://twitter.com/LiamConroyH
-[2]: www.linkedin.com/in/liam-conroy-hampton
+[2]: https://linkedin.com/in/liam-conroy-hampton
 [3]: https://www.instagram.com/liamhampton/
