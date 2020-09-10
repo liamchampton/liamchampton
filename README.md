@@ -22,14 +22,15 @@ Fun Facts :fire:
 
 - I lift weights for fun and I lift them faster for cardio
 
-## Ask me anything, anytime!
+### Ask me anything, anytime!
 
-<a href="https://twitter.com/LiamConroyH" target="_blank">
-    <img alt="twitter" src="./twitter.png">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="www.linkedin.com/in/liam-conroy-hampton" target="_blank">
-    <img alt="twitter" src="./linkedin.png">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/liamhampton/" target="_blank">
-    <img alt="twitter" src="./instagram.png">
-</a>
+[![Twitter][1.2]][1]&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn][2.2]][2]&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram][3.2]][3]
+
+[1.2]: ./twitter.png
+[2.2]: ./linkedin.png
+[3.2]: ./instagram.png
+[1]: https://twitter.com/LiamConroyH
+[2]: www.linkedin.com/in/liam-conroy-hampton
+[3]: https://www.instagram.com/liamhampton/
