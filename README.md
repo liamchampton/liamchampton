@@ -24,8 +24,8 @@ Fun Facts :fire:
 
 Ask me anything, anytime!
 
-Linkedin
+Linkedin - www.linkedin.com/in/liam-conroy-hampton
 
-Twitter
+Twitter - https://twitter.com/LiamConroyH
 
-Instagram
+Instagram - https://www.instagram.com/liamhampton/
