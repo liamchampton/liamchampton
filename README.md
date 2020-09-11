@@ -4,7 +4,7 @@
 
 Quick Facts :rocket:
 
-- Currently working at [IBM](https://developer.ibm.com/) focusing on Golang in IBM Cloud
+- Currently working at [IBM](https://developer.ibm.com/) focusing on Golang in IBM Cloud, creating workshops and tutorials
 
 - Co-Host of the [Tech Jam podcast](https://techjam.dev)
 
