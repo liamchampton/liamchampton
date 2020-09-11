@@ -4,7 +4,7 @@
 
 Quick Facts :rocket:
 
-- Currently working at IBM focusing on Golang in IBM Cloud
+- Currently working at [IBM](https://developer.ibm.com/) focusing on Golang in IBM Cloud
 
 - Co-Host of the [Tech Jam podcast](https://techjam.dev)
 
@@ -13,6 +13,8 @@ Quick Facts :rocket:
 - Always on the lookout for new open source projects to get involved in
 
 - Previously worked on the Eclipse Codewind open source initiative as a Node.js and Go developer
+
+- Checkout my latest's two workshops [Web Scraping](https://github.com/IBMDeveloperUK/golang-web-scraping) and [Twitter Bot](https://github.com/IBMDeveloperUK/cloud-hosted-twitter-bot-workshop)
 
 Fun Facts :fire:
 
