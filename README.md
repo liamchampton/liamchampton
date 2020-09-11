@@ -6,7 +6,7 @@ Quick Facts :rocket:
 
 - Currently working at [IBM](https://developer.ibm.com/) focusing on Golang in IBM Cloud, creating workshops and tutorials
 
-- Co-Host of the [Tech Jam podcast](https://techjam.dev)
+- Co-Host of the [Tech Jam podcast](https://techjam.dev) - a podcast by devs for devs, 2 Aussies : 1 Brit
 
 - Working towards my RedHat OpenShift certification
 
