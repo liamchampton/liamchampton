@@ -1,4 +1,4 @@
-[![Header](https://github.com/liamchampton/liamchampton/blob/readme-header/github_readme_pic.jpg "Header")](https://techjam.dev/)
+[![Header](https://github.com/liamchampton/liamchampton/blob/readme-header/github-profile-banner.jpg "Header")](https://techjam.dev/)
 
 ## Software Developer / Developer Advocate / Podcast Co-Host / Mentor and an all round tech geek and code enthusiast :octopus:
 
