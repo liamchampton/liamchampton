@@ -2,25 +2,25 @@
 
 ## Software Developer / Developer Advocate / Podcast Co-Host / Mentor and an all round tech geek and code enthusiast :octopus:
 
-Quick Facts :rocket:
+About me :rocket:
 
-- Currently working at [IBM](https://developer.ibm.com/) focusing on Golang in IBM Cloud, creating workshops and tutorials
+- Currently working at [IBM](https://developer.ibm.com/) creating workshops and tutorials for all to learn from
+
+- AWS Cloud Practitioner Certified
 
 - Co-Host of the [Tech Jam podcast](https://techjam.dev) - a podcast by devs for devs, 2 Aussies : 1 Brit
 
-- Working towards my RedHat OpenShift certification
-
 - Always on the lookout for new open source projects to get involved in
 
-- Previously worked on the Eclipse Codewind open source initiative as a Node.js and Go developer
+- Heavily contributed to the Eclipse Codewind open source initiative as a Node.js and Go developer
 
-- Checkout my latest's two workshops [Web Scraping](https://github.com/IBMDeveloperUK/golang-web-scraping) and [Twitter Bot](https://github.com/IBMDeveloperUK/cloud-hosted-twitter-bot-workshop)
+- Why not check out a couple of my workshops [Web Scraping](https://github.com/IBMDeveloperUK/golang-web-scraping) and [Twitter Bot](https://github.com/IBMDeveloperUK/cloud-hosted-twitter-bot-workshop)
 
 Fun Facts :fire:
 
 - I travel.. a lot
 
-- I play with drones
+- I play with drones to take breathtaking pictures
 
 - I lift weights for fun and I lift them faster for cardio
 
