@@ -1,6 +1,6 @@
 [![Header](https://github.com/liamchampton/liamchampton/blob/master/github-profile-banner.jpg "Header")](https://techjam.dev/)
 
-## Software Developer / Developer Advocate / Podcast Co-Host / Mentor and an all round tech geek and code enthusiast :octopus:
+## Software Developer / Developer Advocate / Podcast Co-Host / Mentor and an all-round tech geek and code enthusiast :octopus:
 
 About me :rocket:
 
