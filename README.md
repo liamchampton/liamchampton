@@ -3,6 +3,7 @@
 ## Software Developer / Developer Advocate / Podcast Co-Host / Mentor and an all-round tech geek and code enthusiast :octopus:
 
 [![Twitter](https://img.shields.io/twitter/follow/liamchampton.svg?style=social&label=@liamchampton)](https://twitter.com/liamchampton)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Liam%20Hampton-blue)](https://www.linkedin.com/in/liam-conroy-hampton)
 
 About me :rocket:
 
