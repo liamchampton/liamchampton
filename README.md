@@ -21,4 +21,4 @@ About me :rocket:
 
 - Heavily contributed to the [Eclipse Codewind](https://github.com/eclipse/codewind-installer) open source initiative as a Node.js and Go developer
 
-- Why not check out a couple of my workshops? - [Deploy to IBM Cloud using GitHub Actions](https://github.com/IBMDeveloperUK/Deploy-To-IBM-Cloud-With-GitHub-Actions) | [Twitter Bot](https://github.com/IBMDeveloperUK/cloud-hosted-twitter-bot-workshop) | [Twilio Notifications](https://github.com/IBMDeveloperUK/Cloud-Functions-Twilio-Notifications)
+- Why not check out a couple of my workshops? - [Deploy to IBM Cloud using GitHub Actions](https://github.com/IBMDeveloperUK/Deploy-To-IBM-Cloud-With-GitHub-Actions) | [Cloud Hosted Twitter Bot](https://github.com/IBMDeveloperUK/cloud-hosted-twitter-bot-workshop) | [Serverless Twilio Notifications](https://github.com/IBMDeveloperUK/Cloud-Functions-Twilio-Notifications)
