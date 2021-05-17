@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Liam%20Hampton-blue)](https://www.linkedin.com/in/liam-conroy-hampton)
 [![Twitter](https://img.shields.io/twitter/follow/liamchampton.svg?style=social&label=@liamchampton)](https://twitter.com/liamchampton)
-[![Podcast](https://img.shields.io/badge/TechJam-Podcast-green)](https://img.shields.io/badge/Tech%20Jam-Podcast-green)
+[![Podcast](https://img.shields.io/badge/TechJam-Podcast-green)](https://techjam.dev/)
 
 About me :rocket:
 
