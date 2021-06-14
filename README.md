@@ -12,7 +12,7 @@ About me :rocket:
 
 - AWS Cloud Practitioner Certified
 
-- IBM Full StacK Developer Certified
+- IBM Full Stack Cloud Developer Certified
 
 - Google Fundamentals of Digital Marketing Certified
 
