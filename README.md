@@ -28,4 +28,9 @@
 
 ## Latest blog posts :newspaper:
 <!-- BLOG-POST-LIST:START -->
+- [Unit Testing - Table Tests in Go](https://dev.to/liamchampton/unit-testing-table-tests-in-go-2nmo)
+- [Deploy your Application using GitHub Actions](https://dev.to/liamchampton/deploy-your-application-using-github-actions-55hh)
+- [Interacting with IBM Cloud](https://dev.to/liamchampton/interacting-with-ibm-cloud-3bf9)
+- [2 Clouds 1 Pipeline](https://dev.to/liamchampton/2-clouds-1-pipeline-19cd)
+- [Code Engine - A developers dream!](https://dev.to/liamchampton/code-engine-a-developers-dream-47ap)
 <!-- BLOG-POST-LIST:END -->
