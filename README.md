@@ -25,3 +25,7 @@
 - [Deploy to IBM Cloud using GitHub Actions](https://github.com/IBMDeveloperUK/Deploy-To-IBM-Cloud-With-GitHub-Actions)
 - [Cloud Hosted Twitter Bot](https://github.com/IBMDeveloperUK/cloud-hosted-twitter-bot-workshop)
 - [Serverless Twilio Notifications](https://github.com/IBMDeveloperUK/Cloud-Functions-Twilio-Notifications)
+
+## Latest blog posts :newspaper:
+<!-- BLOG-POST-LIST-START -->
+<!-- BLOG-POST-LIST-END -->
