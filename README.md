@@ -10,6 +10,9 @@
 
 ---
 
+## Stats :chart_with_upwards_trend:
+<img align="left" alt="liamchampton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=liamchampton&show_icons=true&theme=dark&hide_border=true">
+
 ## Certifications :scroll:
 - AWS Cloud Practitioner
 - IBM Full Stack Cloud Developer
