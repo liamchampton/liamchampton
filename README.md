@@ -10,9 +10,6 @@
 
 ---
 
-## Stats :chart_with_upwards_trend:
-<img align="left" alt="liamchampton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=liamchampton&show_icons=true&theme=dark&hide_border=true">
-
 ## Certifications :scroll:
 - AWS Cloud Practitioner
 - IBM Full Stack Cloud Developer
@@ -37,3 +34,6 @@
 - [2 Clouds 1 Pipeline](https://dev.to/liamchampton/2-clouds-1-pipeline-19cd)
 - [Code Engine - A developers dream!](https://dev.to/liamchampton/code-engine-a-developers-dream-47ap)
 <!-- BLOG-POST-LIST:END -->
+
+## Stats :chart_with_upwards_trend:
+<img align="left" alt="liamchampton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=liamchampton&show_icons=true&theme=dark&hide_border=true">
