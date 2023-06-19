@@ -19,10 +19,5 @@ Here is a little bit about me
 - IBM Full Stack Cloud Developer
 - Google Fundamentals of Digital Marketing
 
-## Workshops :computer:
-- [Deploy to IBM Cloud using GitHub Actions](https://github.com/IBMDeveloperUK/Deploy-To-IBM-Cloud-With-GitHub-Actions)
-- [Cloud Hosted Twitter Bot](https://github.com/IBMDeveloperUK/cloud-hosted-twitter-bot-workshop)
-- [Serverless Twilio Notifications](https://github.com/IBMDeveloperUK/Cloud-Functions-Twilio-Notifications)
-
 ## Stats :chart_with_upwards_trend:
 <img align="left" alt="liamchampton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=liamchampton&show_icons=true&theme=dark&hide_border=true">
