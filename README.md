@@ -1,5 +1,7 @@
 ## Hey there! I'm Liam 👋
 
+[Visit my portfolio website!](https://liamchampton.github.io/portfolio/)
+
 Here is a little bit about me
 - 🤓 I am a Senior Cloud Advocate at [Microsoft](https://github.com/microsoft)
 - 🛠️ I mostly write [Go](https://github.com/golang) code
