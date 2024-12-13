@@ -13,12 +13,11 @@ Here is a little bit about me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Liam%20Hampton-blue)](https://www.linkedin.com/in/liam-conroy-hampton)
 [![Twitter](https://img.shields.io/twitter/follow/liamchampton.svg?style=social&label=@liamchampton)](https://twitter.com/liamchampton)
-[![Podcast](https://img.shields.io/badge/TechJam-Podcast-green)](https://techjam.dev/)
 
 ---
 
 ## Certifications :scroll:
-- AWS Cloud Practitioner
+- Azure AI-900
 - IBM Full Stack Cloud Developer
 - Google Fundamentals of Digital Marketing
 
