@@ -7,7 +7,7 @@ Here is a little bit about me
 - 🛠️ I mostly write [Go](https://github.com/golang) code
 - 👨🏻‍🏫 I Mentor others in the community
 - 📝 I write technical content
-- 📅 I am the [London Reactor Meetup](https://www.meetup.com/Microsoft-Reactor-London/) co-organiser and host
+- 📅 I am the [London Reactor Meetup](https://www.meetup.com/Microsoft-Reactor-London/) organiser and host
 
 ---
 
