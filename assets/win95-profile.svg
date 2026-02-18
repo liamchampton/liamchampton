@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="255" viewBox="0 0 620 255">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
+      text { font-family: 'VT323', 'Courier New', monospace; }
+    </style>
+  </defs>
+
+  <!-- Outer raised border -->
+  <rect x="0" y="0" width="620" height="255" fill="#C0C0C0"/>
+  <rect x="0" y="0" width="620" height="2" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="2" height="255" fill="#FFFFFF"/>
+  <rect x="618" y="0" width="2" height="255" fill="#808080"/>
+  <rect x="0" y="253" width="620" height="2" fill="#808080"/>
+
+  <!-- Inner border -->
+  <rect x="2" y="2" width="616" height="251" fill="#C0C0C0"/>
+  <rect x="2" y="2" width="616" height="1" fill="#DFDFDF"/>
+  <rect x="2" y="2" width="1" height="251" fill="#DFDFDF"/>
+  <rect x="617" y="2" width="1" height="251" fill="#404040"/>
+  <rect x="2" y="252" width="616" height="1" fill="#404040"/>
+
+  <!-- Title bar -->
+  <rect x="4" y="4" width="612" height="22" fill="#000080"/>
+  <text x="10" y="20" fill="#FFFFFF" font-size="15" font-weight="bold">📋 Liam Hampton - Profile.exe</text>
+
+  <!-- Window buttons -->
+  <!-- Minimize -->
+  <rect x="554" y="6" width="16" height="16" fill="#C0C0C0" stroke="#FFFFFF" stroke-width="1"/>
+  <rect x="555" y="7" width="15" height="15" fill="#C0C0C0"/>
+  <rect x="570" y="7" width="1" height="16" fill="#808080"/>
+  <rect x="555" y="22" width="16" height="1" fill="#808080"/>
+  <line x1="558" y1="18" x2="567" y2="18" stroke="#000000" stroke-width="2"/>
+
+  <!-- Maximize -->
+  <rect x="574" y="6" width="16" height="16" fill="#C0C0C0"/>
+  <rect x="575" y="7" width="15" height="15" fill="#C0C0C0"/>
+  <rect x="590" y="7" width="1" height="16" fill="#808080"/>
+  <rect x="575" y="22" width="16" height="1" fill="#808080"/>
+  <rect x="578" y="10" width="10" height="9" fill="none" stroke="#000000" stroke-width="1"/>
+  <rect x="578" y="10" width="10" height="2" fill="#000000"/>
+
+  <!-- Close -->
+  <rect x="594" y="6" width="16" height="16" fill="#C0C0C0"/>
+  <rect x="595" y="7" width="15" height="15" fill="#C0C0C0"/>
+  <rect x="610" y="7" width="1" height="16" fill="#808080"/>
+  <rect x="595" y="22" width="16" height="1" fill="#808080"/>
+  <line x1="598" y1="10" x2="607" y2="19" stroke="#000000" stroke-width="2"/>
+  <line x1="607" y1="10" x2="598" y2="19" stroke="#000000" stroke-width="2"/>
+
+  <!-- Menu bar -->
+  <rect x="4" y="26" width="612" height="20" fill="#C0C0C0"/>
+  <text x="12" y="41" fill="#000000" font-size="13"><tspan text-decoration="underline">F</tspan>ile</text>
+  <text x="48" y="41" fill="#000000" font-size="13"><tspan text-decoration="underline">E</tspan>dit</text>
+  <text x="88" y="41" fill="#000000" font-size="13"><tspan text-decoration="underline">V</tspan>iew</text>
+  <text x="128" y="41" fill="#000000" font-size="13"><tspan text-decoration="underline">H</tspan>elp</text>
+
+  <!-- Divider under menu -->
+  <rect x="4" y="46" width="612" height="1" fill="#808080"/>
+  <rect x="4" y="47" width="612" height="1" fill="#FFFFFF"/>
+
+  <!-- Content area - sunken border -->
+  <rect x="8" y="52" width="604" height="163" fill="#FFFFFF"/>
+  <rect x="8" y="52" width="604" height="1" fill="#808080"/>
+  <rect x="8" y="52" width="1" height="163" fill="#808080"/>
+  <rect x="611" y="52" width="1" height="163" fill="#FFFFFF"/>
+  <rect x="8" y="214" width="604" height="1" fill="#FFFFFF"/>
+
+  <!-- Inner content -->
+  <!-- GitHub Copilot section -->
+  <text x="30" y="85" fill="#000080" font-size="20" font-weight="bold">👤 About Me</text>
+  <rect x="30" y="92" width="200" height="2" fill="#000080"/>
+
+  <text x="30" y="120" fill="#000000" font-size="14">Name:</text>
+  <text x="130" y="120" fill="#000080" font-size="14" font-weight="bold">Liam Hampton</text>
+
+  <text x="30" y="145" fill="#000000" font-size="14">Role:</text>
+  <text x="130" y="145" fill="#000080" font-size="14" font-weight="bold">Senior Cloud Advocate and Software Engineer</text>
+
+  <text x="30" y="170" fill="#000000" font-size="14">Org:</text>
+  <text x="130" y="170" fill="#000080" font-size="14" font-weight="bold">Microsoft</text>
+
+  <text x="30" y="195" fill="#000000" font-size="14">Focus:</text>
+  <text x="130" y="195" fill="#000080" font-size="14" font-weight="bold">VS Code, MCP and Developer Tools</text>
+
+  <!-- Status bar -->
+  <rect x="4" y="219" width="612" height="30" fill="#C0C0C0"/>
+  <rect x="4" y="219" width="612" height="1" fill="#808080"/>
+
+  <!-- Status bar sunken panels -->
+  <rect x="8" y="223" width="400" height="22" fill="#C0C0C0"/>
+  <rect x="8" y="223" width="400" height="1" fill="#808080"/>
+  <rect x="8" y="223" width="1" height="22" fill="#808080"/>
+  <rect x="407" y="223" width="1" height="22" fill="#FFFFFF"/>
+  <rect x="8" y="244" width="400" height="1" fill="#FFFFFF"/>
+  <text x="16" y="239" fill="#000000" font-size="12">✅ Ready</text>
+
+  <rect x="416" y="223" width="196" height="22" fill="#C0C0C0"/>
+  <rect x="416" y="223" width="196" height="1" fill="#808080"/>
+  <rect x="416" y="223" width="1" height="22" fill="#808080"/>
+  <rect x="611" y="223" width="1" height="22" fill="#FFFFFF"/>
+  <rect x="416" y="244" width="196" height="1" fill="#FFFFFF"/>
+  <text x="424" y="239" fill="#000000" font-size="12">🕐 Online</text>
+</svg>

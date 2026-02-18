@@ -1,25 +1,20 @@
-## Hey there! I'm Liam 👋
+<p align="center">
+  <img src="assets/win95-profile.svg" alt="Windows 95 style profile card" width="620"/>
+</p>
 
-[Visit my portfolio website!](https://liamchampton.github.io/portfolio/)
-
-Here is a little bit about me
-- 🤓 I am a Senior Cloud Advocate at [Microsoft](https://github.com/microsoft)
-- 🛠️ I mostly write [Go](https://github.com/golang) code
-- 👨🏻‍🏫 I Mentor others in the community
-- 📝 I write technical content
-- 📅 I am the [London Reactor Meetup](https://www.meetup.com/Microsoft-Reactor-London/) organiser and host
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Liam%20Hampton-blue)](https://www.linkedin.com/in/liam-conroy-hampton)
-[![Twitter](https://img.shields.io/twitter/follow/liamchampton.svg?style=social&label=@liamchampton)](https://twitter.com/liamchampton)
+<p align="center">
+  <a href="https://liamchampton.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-008080?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## Certifications :scroll:
-- Azure AI-900
-- IBM Full Stack Cloud Developer
-- Google Fundamentals of Digital Marketing
-
-## Stats :chart_with_upwards_trend:
-<img align="left" alt="liamchampton's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=liamchampton&show_icons=true&theme=dark&hide_border=true">
+<p align="center">
+  <a href="https://www.linkedin.com/in/liam-conroy-hampton">
+    <img src="https://img.shields.io/badge/LinkedIn-Liam%20Hampton-0078D4?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/liamchampton">
+    <img src="https://img.shields.io/twitter/follow/liamchampton?style=flat-square&logo=twitter&label=@liamchampton" alt="Twitter"/>
+  </a>
+</p>
