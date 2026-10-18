@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-1280x640.png" alt="profile card" width="640"/>
+  <img src="assets/banner-1280x640.png" alt="profile card"/>
 </p>
 
 <p align="center">
